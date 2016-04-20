@@ -5,31 +5,30 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**University of xxx** University Name
 
-**College**
+**College**  College Name
 
-**Unit**
+**Unit**  Course Name
 
 ## Course Number: Course Title
 
 **Semester Year**
 
 
-**Instructor: **Dr. ××**   
+**Instructor: ** Dr. ××
 **Office**: Building Number  
-**Email**:  
-
+**Email**:  Email@email.com
 **Phone**:  
-**Office Hours**: Date, Time, Location  
 
+**Office Hours**: Date, Time, Location  
 [Every Tuesday at 4:00 p.m. CST
 or by appointment or Virtual office hours available]
 
 **Learning Management System**:  
 
 **Other**: [Action Center, Course Web Site, Other contact
-information]  
+information]  (https://www.google.com)
 
   
 **Course Meeting Time and Location**: _Online_
@@ -39,7 +38,6 @@ information]
 **Course Delivery**: _Online, Blended, Flipped_  
 
 **Course Description**:  
-
 _In about five sentences, describe why this course exists, what will be covered, and how it fits into the rest of the field/area’s curriculum.  Please reference the Course Description as listed in the Course Catalog._
 
 **Course Goals**:  
