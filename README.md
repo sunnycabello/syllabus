@@ -181,7 +181,7 @@ It is the policy of the University to excuse the absences of students that resul
 
 #### Reasonable Accommodation Policy
 
-_There is not specific language for the Reasonable Accommodation policy to be included in the syllabus.  It is good to become familiar with the policy and describe it in your own words.  Including the link to Disability Resources Center is encouraged.
+_There is not specific language for the Reasonable Accommodation policy to be included in the syllabus.  It is good to become familiar with the policy and describe it in your own words.  Including the link to Disability Resources Center is encouraged._
 
 
 Any student in this course who has a disability that may prevent him or her from fully demonstrating his or her abilities should contact me personally as soon as possible so we can discuss accommodations necessary to ensure full participation and facilitate your educational opportunities.
@@ -189,7 +189,7 @@ Any student in this course who has a disability that may prevent him or her from
 
 **Title IX Resources and Reporting Requirement**
 
-For any concerns regarding gender-based discrimination, sexual harassment, sexual assault, dating/domestic violence, or stalking, the University offers a variety of resources. To learn more or to report an incident, please contact the Sexual Misconduct Office. Also, please be advised that a professor/GA/TA is required to report instances of sexual harassment, sexual assault, or discrimination to the Sexual Misconduct Office.  
+ For any concerns regarding gender-based discrimination, sexual harassment, sexual assault, dating/domestic violence, or stalking, the University offers a variety of resources. To learn more or to report an incident, please contact the Sexual Misconduct Office. Also, please be advised that a professor/GA/TA is required to report instances of sexual harassment, sexual assault, or discrimination to the Sexual Misconduct Office.  
 
 **Adjustments for Pregnancy/Childbirth Related Issues**
 
